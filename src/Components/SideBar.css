@@ -1,0 +1,23 @@
+.side-bar {
+  display: flex;
+  flex-direction: column;
+  background-color: black;
+  align-items: center;
+  justify-content: space-around;
+  margin-right: 4%;
+  height: 100%;
+}
+.side-bar div button {
+  border: none;
+  color: grey;
+  background-color: black;
+  font-size: 2.5vh;
+  cursor: pointer;
+}
+.side-bar div button:hover {
+  color: pink;
+}
+.side-bar div button:focus {
+  color: white;
+  font-size: 2.7vh;
+}

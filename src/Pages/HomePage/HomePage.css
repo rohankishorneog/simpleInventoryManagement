@@ -1,0 +1,13 @@
+.home-main-div {
+  display: flex;
+  height: 100vh;
+}
+
+.content-div {
+  flex: 2;
+}
+.sidebar-div {
+  height: 100%;
+  width: 21vh;
+  background-color: blue;
+}

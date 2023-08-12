@@ -1,0 +1,36 @@
+.dash-main-div {
+  margin: 2%;
+  display: flex;
+  justify-content: space-around;
+}
+
+.count-container {
+  background-color: whitesmoke;
+  width: 20vh;
+  height: 20vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 2px;
+}
+
+.stock-num {
+  color: green;
+  font-size: 3vh;
+  font-weight: 800;
+  text-decoration: none;
+}
+
+.delivered-num {
+  color: orange;
+  font-size: 3vh;
+  font-weight: 800;
+  text-decoration: none;
+}
+.low-stock-num {
+  color: red;
+  font-size: 3vh;
+  font-weight: 800;
+  text-decoration: none;
+}

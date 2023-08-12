@@ -1,0 +1,8 @@
+.products-main-div {
+  display: flex;
+  flex-direction: column;
+}
+
+.product-image {
+  width: 4rem;
+}
